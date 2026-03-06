@@ -143,7 +143,7 @@ Every file should start with a header:
  * @file image_processor.cpp
  * @brief Image processing functions for camera capture and ML preprocessing
  * 
- * @author Pavan Kumar Ginkala
+ * @authors Pavan Kumar Ginkala,sairam muddu
  * @version 1.0
  * @date 2025-01-15
  * 
